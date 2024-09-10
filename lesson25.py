@@ -14,3 +14,5 @@ class Kompyuter:
 
 myLoptop = Kompyuter('HP', '8GB', '256GB', 'INTEL', 'i5 12Gen')
 print(myLoptop.info())
+
+#O'zgartirildi
